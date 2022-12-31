@@ -1,0 +1,19 @@
+{
+  "name": "iceBus",
+  "version": "0.1.0",
+  "description": "Working with Simple Buses",
+  "wiki": "https://github.com/FPGAwars/iceBus/wiki",
+  "keywords": ["Bus","Buses"],
+  "license": "GPL-2.0",
+  "authors": [{
+    "name": "Juan Gonzalez-Gomez (Obijuan)",
+    "email": "",
+    "url": "https://github.com/Obijuan"
+  }],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "branch": "main",
+    "url": "https://github.com/FPGAwars/iceBus"
+  }
+}
