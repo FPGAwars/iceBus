@@ -1,6 +1,6 @@
 
 
-# iceBus Collection
+# icebus Collection
 
 [![Icestudio][icestudio-image]][icestudio-url]
 ![Version][version-image]
