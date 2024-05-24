@@ -24,6 +24,44 @@ For installing and using this colection in Icestudio follow these steps:
 * Select the collection: *Select > Collection*
 
 
+## Blocks
+* **BUSF**
+  * **07-bits**
+    * access-7-5
+  * **11-bits**
+    * access-2-9
+* **Bidbus**
+  * **02-bits**
+    * access
+* **Unibus**
+  * **01-bits**
+    * access
+  * **02-bits**
+    * access
+  * **03-bits**
+    * access
+  * **04-bits**
+    * access
+  * **05-bits**
+    * access
+  * **06-bits**
+    * access
+  * **08-bits**
+    * access
+  * **09-bits**
+    * access
+  * **10-bits**
+    * access
+  * **11-bits**
+    * access
+  * **12-bits**
+    * access
+  * **14-bits**
+    * access
+  * **16-bits**
+    * access
+  * **32-bits**
+    * access
 
 
 ## Authors
